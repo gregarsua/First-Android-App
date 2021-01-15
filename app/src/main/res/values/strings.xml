@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_first">Login First</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="todo">TODO</string>
+    <string name="date">date</string>
+    <string name="textview">TextView</string>
+    <string name="password" translatable="false">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="dashboard">USER DASHBOARD</string>
+    <string name="image">TODO</string>
+    <string name="fullname">Full Name</string>
+    <string name="userdashboard">TODO</string>
+    <string name="logout">Logout</string>
+    <string name="full_name">Full Name</string>
+</resources>
